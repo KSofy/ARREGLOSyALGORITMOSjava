@@ -21,12 +21,11 @@ Para cada número en el arreglo:
     Actualizar max1 y max2
     Actualizar min1 y min2
 Salida: segundo mayor y segundo menor
-
 - Tiempo: O(n) (se recorre el arreglo una sola vez).
 - Espacio: O(1) (solo se usan cuatro variables adicionales).
-  
+
 <img width="1498" height="938" alt="Captura de pantalla 2026-02-13 130935" src="https://github.com/user-attachments/assets/fa8813c0-6514-42e2-9734-aa01f8286520" />
 
 
 
-👉 ¿Quieres que te arme un README.md completo ya con formato Markdown para que lo copies directo en tu carpeta /docs y solo le agregues tus capturas?
+
